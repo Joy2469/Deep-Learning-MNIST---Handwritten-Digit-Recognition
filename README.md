@@ -14,7 +14,7 @@ MNIST [(Modified National Institute of Standards and Technology database)](https
 5. Saving the model
 6. Make Predictions
 
-
+### Check out the detailed steps at my medium story [Deep Learning Project — Handwritten Digit Recognition using Python](https://medium.com/@aditijain0424/deep-learning-project-handwritten-digit-recognition-using-python-26da7ed11d1c)
 <br/><br/>
 ## Summary of Sequential model
 
