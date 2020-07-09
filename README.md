@@ -38,14 +38,16 @@ MNIST [(Modified National Institute of Standards and Technology database)](https
 ![Custom number prediction](Images/TestNumber.png)
 <br/>
 ![prediction](Images/prediction.png)
-<br/>
+<br/><br/>
 
-## Run
+
+# Run
 ```
 python3 predict.py
 ```
 
-## Resources:
+
+# Resources:
 [Deep Learning Introduction](https://medium.com/r/?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2018%2F10%2F01%2Fwhat-is-deep-learning-ai-a-simple-guide-with-8-practical-examples%2F%235a233f778d4b)<br/>
 [Install Tensorflow](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)<br/>
 [Why Data Normalizing](https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029)<br/>
